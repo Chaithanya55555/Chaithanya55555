@@ -1,4 +1,3 @@
-# Chathanya
 <h1 align="center">Hi 👋, I'm Chaithanya</h1>
 <h3 align="center">A passionate Automation Engineer from India</h3>
 
