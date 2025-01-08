@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chaithanya</h1>
 <h3 align="center">A passionate Automation Engineer from India</h3>
 
-- 🔭 I’m currently working on [Selenium](https://github.com/Chaithanya55555/SeleniumJava)
+- 🔭 I’m currently working on [Rest Assured](https://github.com/Chaithanya55555/SeleniumJava)
 
-- 🌱 I’m currently learning **Selenium java**
+- 🌱 I’m currently learning **Rest Assured**
 
 - 📫 How to reach me **chaitanyavallabhaneni2001@gmail.com**
 
