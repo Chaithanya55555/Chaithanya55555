@@ -38,9 +38,7 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/testng/testng-icon.svg" alt="testng" width="40" height="40"/> 
-  </a>
+
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   </a>
